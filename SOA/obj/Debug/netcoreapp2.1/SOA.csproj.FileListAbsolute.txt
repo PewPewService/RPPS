@@ -1,0 +1,11 @@
+E:\доки\РАТППС\лаба 1 я\SOA\SOA\bin\Debug\netcoreapp2.1\SOA.deps.json
+E:\доки\РАТППС\лаба 1 я\SOA\SOA\bin\Debug\netcoreapp2.1\SOA.runtimeconfig.json
+E:\доки\РАТППС\лаба 1 я\SOA\SOA\bin\Debug\netcoreapp2.1\SOA.runtimeconfig.dev.json
+E:\доки\РАТППС\лаба 1 я\SOA\SOA\bin\Debug\netcoreapp2.1\SOA.dll
+E:\доки\РАТППС\лаба 1 я\SOA\SOA\bin\Debug\netcoreapp2.1\SOA.pdb
+E:\доки\РАТППС\лаба 1 я\SOA\SOA\obj\Debug\netcoreapp2.1\SOA.csprojAssemblyReference.cache
+E:\доки\РАТППС\лаба 1 я\SOA\SOA\obj\Debug\netcoreapp2.1\SOA.csproj.CoreCompileInputs.cache
+E:\доки\РАТППС\лаба 1 я\SOA\SOA\obj\Debug\netcoreapp2.1\SOA.AssemblyInfoInputs.cache
+E:\доки\РАТППС\лаба 1 я\SOA\SOA\obj\Debug\netcoreapp2.1\SOA.AssemblyInfo.cs
+E:\доки\РАТППС\лаба 1 я\SOA\SOA\obj\Debug\netcoreapp2.1\SOA.dll
+E:\доки\РАТППС\лаба 1 я\SOA\SOA\obj\Debug\netcoreapp2.1\SOA.pdb
