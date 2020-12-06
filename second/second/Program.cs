@@ -1,0 +1,12 @@
+﻿using System;
+
+namespace second
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World! It's second RPPS lab");
+        }
+    }
+}
