@@ -1,0 +1,11 @@
+E:\доки\РАТППС\2\second\second\bin\Debug\netcoreapp2.1\second.deps.json
+E:\доки\РАТППС\2\second\second\bin\Debug\netcoreapp2.1\second.runtimeconfig.json
+E:\доки\РАТППС\2\second\second\bin\Debug\netcoreapp2.1\second.runtimeconfig.dev.json
+E:\доки\РАТППС\2\second\second\bin\Debug\netcoreapp2.1\second.dll
+E:\доки\РАТППС\2\second\second\bin\Debug\netcoreapp2.1\second.pdb
+E:\доки\РАТППС\2\second\second\obj\Debug\netcoreapp2.1\second.csprojAssemblyReference.cache
+E:\доки\РАТППС\2\second\second\obj\Debug\netcoreapp2.1\second.csproj.CoreCompileInputs.cache
+E:\доки\РАТППС\2\second\second\obj\Debug\netcoreapp2.1\second.AssemblyInfoInputs.cache
+E:\доки\РАТППС\2\second\second\obj\Debug\netcoreapp2.1\second.AssemblyInfo.cs
+E:\доки\РАТППС\2\second\second\obj\Debug\netcoreapp2.1\second.dll
+E:\доки\РАТППС\2\second\second\obj\Debug\netcoreapp2.1\second.pdb
