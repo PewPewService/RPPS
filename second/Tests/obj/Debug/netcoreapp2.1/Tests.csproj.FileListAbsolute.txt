@@ -1,0 +1,17 @@
+E:\доки\РАТППС\2\second\Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\доки\РАТППС\2\second\Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\доки\РАТППС\2\second\Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\доки\РАТППС\2\second\Tests\bin\Debug\netcoreapp2.1\Tests.deps.json
+E:\доки\РАТППС\2\second\Tests\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.json
+E:\доки\РАТППС\2\second\Tests\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.dev.json
+E:\доки\РАТППС\2\second\Tests\bin\Debug\netcoreapp2.1\Tests.dll
+E:\доки\РАТППС\2\second\Tests\bin\Debug\netcoreapp2.1\Tests.pdb
+E:\доки\РАТППС\2\second\Tests\bin\Debug\netcoreapp2.1\second.dll
+E:\доки\РАТППС\2\second\Tests\bin\Debug\netcoreapp2.1\second.pdb
+E:\доки\РАТППС\2\second\Tests\obj\Debug\netcoreapp2.1\Tests.csprojAssemblyReference.cache
+E:\доки\РАТППС\2\second\Tests\obj\Debug\netcoreapp2.1\Tests.csproj.CoreCompileInputs.cache
+E:\доки\РАТППС\2\second\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfoInputs.cache
+E:\доки\РАТППС\2\second\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfo.cs
+E:\доки\РАТППС\2\second\Tests\obj\Debug\netcoreapp2.1\Tests.csproj.CopyComplete
+E:\доки\РАТППС\2\second\Tests\obj\Debug\netcoreapp2.1\Tests.dll
+E:\доки\РАТППС\2\second\Tests\obj\Debug\netcoreapp2.1\Tests.pdb
